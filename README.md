@@ -58,7 +58,7 @@ This project is a React app that shows three greeting cards with different messa
 
 Here’s a screenshot of the final app with the Header and three greeting cards displayed:
 
-![Header and Greeting Cards]("C:\Users\dbaba\OneDrive\Pictures\Screenshots\Screenshot 2024-11-25 124026.png")
+![Greeting Cards Screeenshot]("./src/assets/greeting-cards.png")
 
 --- 
 
